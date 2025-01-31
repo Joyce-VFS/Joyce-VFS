@@ -8,7 +8,7 @@
 
 ### 🛠️ **Tech & Skills**
 - **Programming:** Python, C++, Java, JavaScript, Rust, SCSS, CSS, TypeScript, ML Modeling, Swift.  
-- **Tools:** Git, Tableau, Power Automate, Excel Macros  
+- **Tools:** Git, Tableau, Power Automate, Power BI, MATLab Excel Macros  
 - **Frameworks:** React, Flask, AWS, REST, APIs, Scikit-Learn, PyTorch, Linux, Jira, A/B Testing.
 - **Methodologies:** Agile, Scrum, Cross-pollination, Data-driven &Statistical Decision Making.
 - **Design & UX:** Figma, InVision, Adobe Creative Cloud, ZBrush, Autodesk Maya.
