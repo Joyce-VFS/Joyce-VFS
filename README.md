@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Joyce Vieira Ferreira Dos Santos! 👋</h1>
+<h1 align="center">Hi there, I'm Joyce Santos! 👋</h1>
 
 <p align="center">
 🎓 Computer Science & Mathematics @ Hunter College | 💡 Tech & Innovation Enthusiast
